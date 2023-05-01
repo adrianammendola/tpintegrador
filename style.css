@@ -1,0 +1,24 @@
+a:link,
+a:visited {
+  text-decoration: none;
+}
+
+#fondo-footer{
+    background-color: #1E3946;
+}
+
+#button-send{
+    background-color: #97C849;
+}
+
+#nav-bar{
+    background-color: #353A40;
+}
+
+#color-a{
+    color: grey !important;
+}
+
+.text-light {
+    text-align: right;
+}
