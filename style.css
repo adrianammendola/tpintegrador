@@ -1,3 +1,4 @@
+
 a:link,
 a:visited {
   text-decoration: none;
@@ -21,4 +22,8 @@ a:visited {
 
 .text-light {
     text-align: right;
+}
+
+#bg-dark{
+    color:grey !important;
 }
